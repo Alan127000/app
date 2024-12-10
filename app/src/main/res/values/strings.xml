@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lista De Tarefas</string>
+    <string name="bem_vindo">Bem vindo, usuário</string>
+    <string name="intent_tarefa">Nova tarefa</string>
+    <string name="lista_tarefa">Lista de tarefas</string>
+    <string name="nova_tarefa">Inserindo nova tarefa</string>
+    <string name="nome_tarefa">Digite a tarefa</string>
+    <string name="concluida">A tarefa já foi concluída?</string>
+    <string name="confimar">Confirmar</string>
+    <string name="status">Concluida</string>
+    <string name="remover">Remover</string>
+    <string name="buscar">Buscar tarefa</string>
+    <string name="titulo_busca">Busque sua tarefa</string>
+    <string name="buscar_id">Buscar por id</string>
+    <string name="buscar_nome">Buscar por nome</string>
+    <string name="exibe_tarefa">Exibindo tarefa</string>
+</resources>
